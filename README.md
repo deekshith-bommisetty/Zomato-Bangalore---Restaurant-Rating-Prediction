@@ -1,4 +1,4 @@
-# Zomato-Bangalore---Restaurant-s-Rating-Prediction
+# Zomato-Bangalore--Restaurant-Rating-Prediction
 
 
 ## Background</br>
